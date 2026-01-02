@@ -30,7 +30,7 @@ Logistics operations require clear visibility into shipment delays, route perfor
 - Supported data-driven route planning and operational review
 - Enabled identification of high-delay areas for corrective action
 
-![Power BI Dashboard Overview](dashboard_overview.png)
+![Power BI Dashboard Overview](Screenshot 2025-12-24 090056.png)
 
 [View Dashboard Summary on LinkedIn](https://www.linkedin.com/posts/midlaj-e-v_dataanalysis-transport-supplynetwork-activity-7409472421747032064-Fteh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADyOhdYBY-cOWpCu1WQXieU9dgSjbzoBzS0)
 
