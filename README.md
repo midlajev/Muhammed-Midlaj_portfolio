@@ -13,7 +13,7 @@ I am a Data Analyst with hands-on experience in supply chain, inventory control,
 ## Featured Project
 
 ### Logistics Shipment Performance and Delay Analysis
-**Tools:** Power BI Desktop, SQL, Tableau, Microsoft Excel  
+**Tools:** Power BI Desktop, Microsoft Excel  
 
 **Business Context**  
 Logistics operations require clear visibility into shipment delays, route performance, and delivery efficiency. This project analysed shipment data to identify delay patterns and operational inefficiencies affecting delivery performance.
@@ -29,6 +29,10 @@ Logistics operations require clear visibility into shipment delays, route perfor
 - Improved visibility of shipment and delivery performance
 - Supported data-driven route planning and operational review
 - Enabled identification of high-delay areas for corrective action
+
+![Dashboard Presentation and Explanation]()
+
+Note: This image shows a live walkthrough of the Power BI dashboard, explaining shipment performance insights.
 
 ![Power BI Dashboard Overview](Screenshot 2025-12-24 090056.png)
 
